@@ -16,9 +16,6 @@ public class Main
 
         t2.start();
 
-//        Thread.sleep(5000);
-//
-//        t2.interrupt();
 
         t1.join();
 
